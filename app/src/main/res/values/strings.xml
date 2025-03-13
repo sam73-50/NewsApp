@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsAppWithRSSFeed</string>
+    <string name="news">News</string>
+    <string name="date">20/11/2014</string>
+    <string name="heading">Time Music</string>
+    <string name="description">The 20th of November will toke .......</string>
+    <string name="error">Some thing wants wrong!!!!</string>
+</resources>
